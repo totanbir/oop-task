@@ -1,4 +1,18 @@
-{
+{	"name": "tanbir/oop-task",
+	"description": "PHP Awesome Task-List Runner",
+	"license": "MIT",
+	"keywords": [
+		"php",
+		"task",
+		"todo",
+		"tasklist"
+	],
+	"authors": [
+        {
+            "name": "Tanbir Chowdhury Zihad",
+            "email": "tanbir.dns@gmail.com"
+        }
+    ],
 	"autoload": {
 		"psr-4": {
 			"todo\\": "app"
